@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的网页</title>
+</head>
+<body>
+    <h1>感谢您参与本次企业战略与绩效研究项目！</h1>
+    <p>为确保数据完整性与分析有效性，本次调研需由同一企业的三组核心成员分别填写：CEO、高管团队代表、财务部门相关人员。请您根据身份点击对应问卷链接</p>
+    <ul>
+        <li><a href="https://www.wjx.cn/vm/t2p4FdJ.aspx#" target="_blank">CEO问卷</a></li>
+        <li><a href="https://www.wjx.cn/vm/tU5FdUy.aspx#" target="_blank">高管团队问卷</a></li>
+        <li><a href="https://www.wjx.cn/vm/h4UIE0R.aspx#" target="_blank">财务问卷</a></li>
+    </ul>
+</body>
+</html>
